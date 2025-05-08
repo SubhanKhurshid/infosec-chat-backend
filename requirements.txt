@@ -9,5 +9,6 @@ langchain-community
 langchain_openai 
 langchain_experimental 
 openai 
-
-
+ipykernel
+langchain_google_genai
+flask-cors
